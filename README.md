@@ -34,7 +34,10 @@ El objetivo es desarrollar una aplicación Android que permita practicar la crea
 ## Capturas de pantalla
 
 ### Diseño final
+- App Inicial (Sin estilo)
+<img alt="Diseño final de la Calculadora IMC" src="C:\Users\Haiat\AndroidStudioProjects\CalculadoraIMC_Haiat\captura inicial.png"/>
 
+- App con estilo
 <img alt="Diseño final de la Calculadora IMC" src="C:\Users\Haiat\AndroidStudioProjects\CalculadoraIMC_Haiat\Captura calculador IMC.png"/>
 
 ## Autora
